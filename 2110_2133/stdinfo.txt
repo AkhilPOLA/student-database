@@ -1,0 +1,17 @@
+# add student
+4, ad, 7.9, 3
+5, ae, 7.1, 3
+# add course
+4, 520, 81
+4, 520, 81
+5, 560, 70
+# modify student
+1, 8.1
+# modify course
+5, 560, 76
+# delete student
+2
+# delete course
+4, 520
+1, 520
+
